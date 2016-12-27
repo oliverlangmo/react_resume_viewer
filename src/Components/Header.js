@@ -26,7 +26,7 @@ class Header extends Component {
             <div className="banner-text">
                <h1 className="responsive-headline">Im Jonathan Doe.</h1>
                <h3>I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
-               effective visual identities for companies of all sizes around the globe. Lets <a classNameName="smoothscroll" href="#about">start scrolling</a>
+               effective visual identities for companies of all sizes around the globe. Lets <a className="smoothscroll" href="#about">start scrolling</a>
                and learn more <a className="smoothscroll" href="#about">about me</a>.</h3>
                <hr />
                <ul className="social">
